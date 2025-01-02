@@ -1,0 +1,24 @@
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\ProjetCalculatrice.exe.config
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\ProjetCalculatrice.exe
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\ProjetCalculatrice.pdb
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.csproj.AssemblyReference.cache
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.frmCalculatrice.resources
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.Properties.Resources.resources
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.csproj.GenerateResource.cache
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.exe
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.pdb
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\Guna.UI2.dll
+C:\Users\DELL 5430\source\repos\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCa.85C4CE24.Up2Date
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\ProjetCalculatrice.exe.config
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\ProjetCalculatrice.exe
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\ProjetCalculatrice.pdb
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.frmCalculatrice.resources
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.Properties.Resources.resources
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCa.85C4CE24.Up2Date
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.exe
+C:\Users\hp\Desktop\ProjetCalculatrice\ProjetCalculatrice\ProjetCalculatrice\obj\Debug\ProjetCalculatrice.pdb
